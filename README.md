@@ -5,5 +5,5 @@ Eu sou Carlos Eduardo, sou um programador Front-End, e atualmente estou aprenden
 - HTML
 - CSS
 - JavaScript
-- react
+- React
 
